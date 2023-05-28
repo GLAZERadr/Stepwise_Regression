@@ -1,6 +1,7 @@
 # stepwise linear regression
 
 Nama        : Adrian Putra Pratama Badjideh
+
 Universitas : Telkom University
 
 **Regresi linear bertahap (stepwise linear regression)** adalah metode regresi yang digunakan untuk memilih subset variabel yang paling berpengaruh terhadap variabel target dalam model regresi linear. Dalam regresi linear bertahap, variabel-variabel independen dimasukkan atau dihapus dari model secara bertahap berdasarkan kriteria tertentu, seperti signifikansi statistik atau peningkatan nilai R-squared.
