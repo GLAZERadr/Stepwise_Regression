@@ -21,6 +21,7 @@ Data yang digunakan dalam **stepwise linear regression** merupakan data **The Wo
 * GDP (Y)
 
 sehingga susunan kolom dari data dapat berbentuk seperti tabel berikut.
+
 | --- | --- | --- | --- | --- | --- |
 | X1 | X2 | X3 | X4 | X5 | Y |
 | --- | --- | --- | --- | --- | --- |
