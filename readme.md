@@ -22,8 +22,7 @@ Data yang digunakan dalam **stepwise linear regression** merupakan data **The Wo
 
 sehingga susunan kolom dari data dapat berbentuk seperti tabel berikut.
 
-| --- | --- | --- | --- | --- | --- |
-| X1 | X2 | X3 | X4 | X5 | Y |
+| atribut(X1) | atribut(X2) | atribut(X3) | atribut(X4) | atribut(X5) | atribut(Y) |
 | --- | --- | --- | --- | --- | --- |
 | x11 | x12 | x13 | x14 | x15 | y16 |
 | x21 | x22 | x23 | x24 | x25 | y26 |
