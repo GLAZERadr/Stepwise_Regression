@@ -30,4 +30,4 @@ sehingga susunan kolom dari data dapat berbentuk seperti tabel berikut.
 | . | . | . | . | . | . |
 | xij | xij | xij | xij | xij | yij |
 
-notes : **X** merupakan variabel independant, **Y** merupakn variabel dependant.
+notes : **X** merupakan variabel independant, **Y** merupakan variabel dependant.
